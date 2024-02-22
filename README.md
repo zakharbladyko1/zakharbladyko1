@@ -1,5 +1,5 @@
 
-# Hi, my name is Zakhar! :wave:
+# Hi, my name is Zakhar!
 
 ---
 
