@@ -8,8 +8,8 @@
 Я начинающий C++ разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Занимаюсь разработкой с начала августа 2023 года. Прошёл много курсов на Stepik и так же на данный момент читаю книги по разработке на C++, в будущем планирую начать изучать фреймворк QT и так же GIT, SQL и STL.
 
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
+ <img width="600" src="snake.svg" alt="snake"/>
+</p> 
 
 - :seedling: Завершил курсы по разработке от Stepik!
 
