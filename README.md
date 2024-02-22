@@ -49,7 +49,7 @@
 
 ### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/zakharbladyko/badges/large)
+![codewars](https://www.codewars.com/users/zakharbladyko1/badges/large)
 
 ### ⚙️ GitHub статистика:
 
