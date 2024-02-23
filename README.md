@@ -51,7 +51,7 @@
 
 ![codewars](https://www.codewars.com/users/zakharbladyko/badges/large)
 
-### ⚙️ GitHub статистика:
+<!-- ### ⚙️ GitHub статистика:
 
 <table>
   <tr>
@@ -62,6 +62,6 @@
       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zakharbladyko1&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
-</table>
+</table> -->
 
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=zakharbladyko1) --!>
