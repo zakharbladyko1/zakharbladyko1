@@ -11,6 +11,8 @@
  <img width="600" src="snake.svg" alt="snake"/>
 </p> 
 
+- :mortar_board: В 16 стал Junior C++ Developer
+
 - :seedling: Завершил курсы по разработке от Stepik!
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-bladykozakhar-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/develop_c) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:bladykozakhar@gmail.com)
