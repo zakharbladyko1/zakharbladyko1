@@ -37,21 +37,6 @@
 
 ---
 
-### 🛠 Инструменты:
-
-<div>
-  <!--<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp; -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/YouTube_Logo_%282013-2017%29.svg" title="YouTube" alt="YouTube" width="45" height="45"/>&nbsp;
-  <a>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="43" height="43"/> </a> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="45" height="45"/>&nbsp;
-  <!-- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="45" height="45" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="45" height="45" alt="Illustrator" /></a> -->
-  </p>
-  </div>
-
----
-
 ### 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/zakharbladyko/badges/large)
