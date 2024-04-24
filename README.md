@@ -5,7 +5,7 @@
 
 ### :man_technologist: About me:
 
-I'm developing in C++.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. I started learning C++ in early August 2023. I am currently well versed in C++ development and also know how the QT framework and SFML library work for graphic design development. I'm good with STL. At the moment I continue to move in this direction.
+I'm developing in C++.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. I started learning C++ in early August 2023. I'm currently well versed in C++ development and also know how the QT framework and SFML library work for graphic design development. I'm good with STL. At the moment I continue to move in this direction.
 
 <p align="center">
  <img width="600" src="snake.svg" alt="snake"/>
