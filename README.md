@@ -17,19 +17,24 @@
 
 ---
 
-### 🤝 Социальные сети:
+### 💻 Технологии:
 
-  <div id="badges">
-     </a>
-      <a href="https://t.me/develop_c" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
-      </a>
-      <a href="https://instagram.com/uuusername.96" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uuusername.96" height="40" width="40" />
-      </a>
-      <a href="https://www.leetcode.com/strictl" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="strictl" height="40" width="40" /></a>
+<p align="left">
+<a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/> </a>
+<a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
+</a>
+<a>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="45" height="45" alt="Git" />
+</a>
+<a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="45" height="45"/>
+</a>
+<a>
+<img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="45" height="45"/> </a>
 </p>
-  </div>
-  
+
 ---
 
 ### 🛠 Инструменты:
