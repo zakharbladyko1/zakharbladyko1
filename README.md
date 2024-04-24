@@ -5,7 +5,7 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий C++ разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Занимаюсь разработкой с начала августа 2023 года. Прошёл много курсов на Stepik и так же на данный момент читаю книги по разработке на C++, в будущем планирую начать изучать фреймворк QT и так же GIT и STL.
+I'm developing in C++.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. I started learning C++ in early August 2023. I am currently well versed in C++ development and also know how the QT framework and SFML library work for graphic design development. I'm good with STL. At the moment I continue to move in this direction.
 
 <p align="center">
  <img width="600" src="snake.svg" alt="snake"/>
