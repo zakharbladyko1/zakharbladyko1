@@ -15,7 +15,7 @@ I'm developing in C++.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 - :mortar_board: I'm using the QT framework for graphic design!
 
-- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-bladykozakhar-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/develop_c) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:bladykozakhar@gmail.com)
+- :mailbox: How to contact me:  [![Telegram Badge](https://img.shields.io/badge/-bladykozakhar-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/develop_c) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:bladykozakhar@gmail.com)
 
 ---
 
