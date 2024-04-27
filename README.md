@@ -39,7 +39,7 @@ I'm developing in C++.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 ---
 
-### 💻 Codewars:
+<!--### 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/zakharbladyko/badges/large)
 
@@ -56,4 +56,4 @@ I'm developing in C++.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
   </tr>
 </table> -->
 
-<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=zakharbladyko1) --!>
+ ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=zakharbladyko1) --!>
